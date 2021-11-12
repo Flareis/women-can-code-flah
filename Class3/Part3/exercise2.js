@@ -28,6 +28,8 @@ if( valor5 == C){
     console.log("50 é estritamente igual a 50")
 }
 
+/* usar comparadores com o estrito */
+
 var veiculo1 = "Carro"
 var veiculo2 = "Bicicleta"
 

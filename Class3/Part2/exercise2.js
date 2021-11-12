@@ -7,7 +7,7 @@ var saldoComDesconto = saldoBonus / 0.5;
 var saldoFinal = saldoComDesconto;
 var saldoComBonus = saldoFinal + 20;
 
-console.log(saldo);
-console.log(saldoComBonus);
-console.log(saldoComDesconto);
-console.log(saldoFinal);
+console.log("Saldo: " + saldo);
+console.log("Saldo com bônus: " + saldoComBonus);
+console.log("Saldo com Desconto: " + saldoComDesconto);
+console.log("Saldo Final: " + saldoFinal);
