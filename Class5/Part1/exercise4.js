@@ -7,4 +7,4 @@ function processaParametros(number){
     return (number +3)/5
 };
 
-console.log(processaParametros(67));
+console.log(processaParametros(7));
